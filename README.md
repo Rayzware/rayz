@@ -6,8 +6,8 @@
 style=flat&label=Language&logo=visualstudio&logoColor=%231082c3"></a>
 <a href="https://store.steampowered.com/app/240/CounterStrike_Source"><img src="https://img.shields.io/badge/Game-CSS-Red? 
 style=flat&logo=image%2Fsvg%252bxml&logoColor=white&labelColor=gray&color=red"></a>
-<a href="https://github.com/brokenmoony/rayz/releases"><img src="https://img.shields.io/badge/Download-Rayz? 
-style=flat&logo=DocuSign&logoColor=orange&labelColor=gray&color=orange"></a>
+<a href="https://github.com/brokenmoony/rayz/releases"><img alt="Static Badge" src="https://img.shields.io/badge/Download-Rayz?style=flat&logo=DocuSign&logoColor=orange&labelColor=gray&color=orange">
+</a>
 </p>
 <h4 align="center">
   ⛔ USE AT YOUR OWN RISK ⛔
