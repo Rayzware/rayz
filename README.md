@@ -1,5 +1,5 @@
 <h1 align="center">
-<br>Rayz
+<img src="" alt="icon" style="width: 100px; height: 100px"><br>Rayz
 </h1>
 
 [![C++](https://img.shields.io/badge/build-C++-blue?style=flat&label=Language&logo=visualstudio&logoColor=%231082c3)](https://en.wikipedia.org/wiki/C%2B%2B)
