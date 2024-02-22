@@ -1,17 +1,11 @@
 <h1 align="center">
 <br>Rayz
 </h1>
-<p align="center">
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="Static Badge" src="https://img.shields.io/badge/build-C++-blue? 
-style=flat&label=Language&logo=visualstudio&logoColor=%231082c3"></a>
-<a href="https://store.steampowered.com/app/240/CounterStrike_Source"><img alt="Static Badge" src="https://img.shields.io/badge/Game-CSS-Red? 
-style=flat&logo=image%2Fsvg%252bxml&logoColor=white&labelColor=gray&color=red"></a>
-<a href="https://github.com/brokenmoony/rayz/releases"><img alt="Static Badge" src="https://img.shields.io/badge/Download-Rayz?style=flat&logo=DocuSign&logoColor=orange&labelColor=gray&color=orange">
-</a>
-</p>
-<h4 align="center">
-  ⛔ USE AT YOUR OWN RISK ⛔
-</h4>
+
+![Static Badge](https://img.shields.io/badge/build-C++-blue?style=flat&label=Language&logo=visualstudio&logoColor=%231082c3)
+![Static Badge](https://img.shields.io/badge/Download-Rayz?style=flat&logo=DocuSign&logoColor=orange&labelColor=gray&color=orange)
+![Static Badge](https://img.shields.io/badge/CS%3ASource(V34)-CSS?style=flat&logo=counterstrike&logoColor=white&label=Game&labelColor=gray&color=green)
+![Static Badge](https://img.shields.io/badge/Down(Temporarily)-CSS?style=flat&logo=carrd&logoColor=white&label=Website&labelColor=gray&color=red)
 
 ## rayz
 Rayz - Undetected CS:Source Cheat
