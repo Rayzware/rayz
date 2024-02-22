@@ -15,8 +15,6 @@ Rayz - Undetected CS:Source Cheat (Discord soon)
 Undetected rage and silent aimbot
 # Wallhack
 Allows to see people through walls
-## Skinpacks
-Included with the Rayz
 ## Anti ban
 Helps not to be banned
 ## Included Injector
