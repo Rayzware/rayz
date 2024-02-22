@@ -1,4 +1,4 @@
-Made by moon3r and untoffi                                             
+Made by moon3r and liltreyka                                             
 ,------.   ,---.,--.   ,--.,-------. 
 |  .--. ' /  O  \\  `.'  / `--.   /  
 |  '--'.'|  .-.  |'.    /    /   /   
