@@ -10,3 +10,5 @@ Included with the Rayz
 Helps not to be banned
 # Included Injector
 Injects cheat dll's into the game 
+# Website
+Temporarily down(we're trying to solve that)
