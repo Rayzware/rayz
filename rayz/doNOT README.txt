@@ -28,7 +28,7 @@ Smac mode - 1
 Smooth - 0
 
 How to use skinchanger :
-Launch skinchanger.bat
+Launch skinchanger.exe
 Select the skinpack you like
 When the link is printed, copy and paste that link in your browser
 Download file
