@@ -27,9 +27,8 @@ pSilent - 1
 Smac mode - 1
 Smooth - 0
 
-How to use skinchanger :
-Launch skinchanger.exe
-Select the skinpack you like
-When the link is printed, copy and paste that link in your browser
-Download file
+Skinpacks : 
+Bloodsport : https://cs-site.ru/css/gunmodels-css/weaponspack-css/3442-pak-skinov-bloodsport-dlya-css.html
+CSGO Pack : https://disk.yandex.ru/d/ksXjyrB0T6IEMA?N49=&quot%3BS3)2d65d6fa2c7c5b3=
+pink pack : https://disk.yandex.ru/d/gdBWnGLO3pAe2g?N49=&quot%3BS3)2d65d6fd6c0ccb6=
 How to add skinpack to the game : https://cs-site.ru/css/stati-o-counter-strike-source/1268-kak-ustanovit-modeli-oruzhiya-na-css-v34-v89.html
