@@ -1,4 +1,4 @@
-Made by moon3r and untoffi                                             
+Made by moon3r and liltreyka                                             
 ,------.   ,---.,--.   ,--.,-------. 
 |  .--. ' /  O  \\  `.'  / `--.   /  
 |  '--'.'|  .-.  |'.    /    /   /   
@@ -27,5 +27,9 @@ pSilent - 1
 Smac mode - 1
 Smooth - 0
 
-98 101 115 116  99 104 101 97 116 63  114 97 121 122
-dont translate this from decimal
+How to use skinchanger :
+Launch skinchanger.bat
+Select the skinpack you like
+When the link is printed, copy and paste that link in your browser
+Download file
+How to add skinpack to the game : https://cs-site.ru/css/stati-o-counter-strike-source/1268-kak-ustanovit-modeli-oruzhiya-na-css-v34-v89.html
