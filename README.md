@@ -9,7 +9,7 @@
 [![Static Badge](https://img.shields.io/badge/Discord-Rayz?style=flat&logo=discord&logoColor=%25234ec920&label=chat&labelColor=gray&color=green)](https://discord.gg/CGUqAcqpCW)
 
 ## rayz
-Rayz - Undetected CS:Source Cheat (Discord soon)
+Rayz - Undetected CS:Source Cheat
 ![Screenshot](https://cdn.discordapp.com/attachments/1088009763444494427/1210240612440350740/JRlygPe.png?ex=65e9d767&is=65d76267&hm=eae5332884e680915f493ebe32c0c332179fca1381ea367f7002730e9d6982c2&)
 ## Best Aimbot
 Undetected rage and silent aimbot
